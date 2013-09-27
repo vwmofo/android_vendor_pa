@@ -37,7 +37,7 @@ $(call inherit-product, device/htc/vigor/vigor.mk)
 -include device/htc/vigor/BoardConfigCommon.mk
 
 # CDMA APN list
-$(call inherit-product, vendor/pa/config/cdma.mk)
+TARGET_RADIO_TYPE := cdma
 
 # Include CM extras
 EXTRA_CM_PACKAGES ?= true

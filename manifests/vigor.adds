@@ -1,0 +1,138 @@
+[
+    {
+        "remote":       "github",
+	"account":	"CyanogenMod",
+        "repository":   "android_frameworks_av",
+        "target_path":  "frameworks/av",
+        "branch":       "cm-10.2"
+    },
+    {
+        "remote":       "github",
+        "account":      "CyanogenMod",
+        "repository":   "android_frameworks_native",
+        "target_path":  "frameworks/native",
+        "branch":       "cm-10.2"
+    },
+
+    {
+        "remote":       "github",
+	"account":	"CyanogenMod",
+        "repository":   "android_hardware_libhardware_legacy",
+        "target_path":  "hardware/libhardware_legacy",
+        "branch":       "cm-10.2"
+    },
+    {
+        "remote":       "github",
+	"account":	"CyanogenMod",
+        "repository":   "android_system_vold",
+        "target_path":  "system/vold",
+        "branch":       "cm-10.2"
+    },
+    {
+        "remote":       "github",
+        "account":      "vigor",
+        "repository":   "vendor_htc_vigor",
+        "target_path":  "vendor/htc/vigor",
+        "revision":     "cm-10.2"
+    },
+    {
+        "remote":       "github",
+        "account":      "vigor",
+        "repository":   "vigor_aosp_kernel",
+        "target_path":  "kernel/htc/vigor-3.0",
+        "revision":     "cm-10.2"
+    },
+    {
+        "remote":       "github",
+        "account":      "vigor",
+        "repository":   "device_htc_vigor",
+        "target_path":  "device/htc/vigor",
+        "revision":     "cm-10.2"
+    },
+    {
+        "remote":       "github",
+        "account":      "vigor",
+        "repository":   "android_device_htc_msm8660-common",
+        "target_path":  "device/htc/msm8660-common",
+        "branch":       "cm-10.2"
+    },
+    {
+        "remote":       "github",
+        "account":      "CyanogenMod",
+        "repository":   "android_hardware_qcom_audio-caf",
+        "target_path":  "hardware/qcom/audio-caf",
+        "branch":       "cm-10.2"
+    },
+    {
+        "remote":       "github",
+        "account":      "CyanogenMod",
+        "repository":   "android_external_sepolicy",
+        "target_path":  "external/sepolicy",
+        "branch":       "cm-10.2"
+    },
+    {
+        "remote":       "github",
+        "account":      "CyanogenMod",
+        "repository":   "android_hardware_qcom_bt",
+        "target_path":  "hardware/qcom/bt",
+        "branch":       "cm-10.2"
+    },
+    {
+        "remote":       "github",
+        "account":      "vigor",
+        "repository":   "android_hardware_qcom_display-legacy",
+        "target_path":  "hardware/qcom/display-legacy",
+        "branch":       "cm-10.2"
+    },
+    {
+        "remote":       "github",
+        "account":      "vigor",
+        "repository":   "android_hardware_qcom_media-legacy",
+        "target_path":  "hardware/qcom/media-legacy",
+        "branch":       "cm-10.2"
+    },
+    {
+        "remote":       "github",
+        "account":      "CyanogenMod",
+        "repository":   "android_hardware_msm7k",
+        "target_path":  "hardware/msm7k",
+        "branch":       "cm-10.2"
+    },
+    {
+        "remote":       "github",
+        "account":      "CyanogenMod",
+        "repository":   "android_hardware_qcom_gps",
+        "target_path":  "hardware/qcom/gps",
+        "branch":       "cm-10.2"
+    },
+    {
+        "remote":       "github",
+        "account":      "CyanogenMod",
+        "repository":   "android_hardware_qcom_keymaster",
+        "target_path":  "hardware/qcom/keymaster",
+        "branch":       "cm-10.2"
+    },
+    {
+        "remote":       "github",
+        "account":      "CyanogenMod",
+        "repository":   "android_hardware_qcom_power",
+        "target_path":  "hardware/qcom/power",
+        "branch":       "cm-10.2"
+    },
+    {
+        "remote":       "github",
+        "account":      "CyanogenMod",
+        "repository":   "android_hardware_qcom_wlan",
+        "target_path":  "hardware/qcom/wlan",
+        "branch":       "cm-10.2"
+    },
+    {
+        "remote":       "github",
+        "account":      "CyanogenMod",
+        "repository":   "android_hardware_qcom_sensors",
+        "target_path":  "hardware/qcom/sensors",
+        "branch":       "cm-10.2"
+    }
+]
+
+

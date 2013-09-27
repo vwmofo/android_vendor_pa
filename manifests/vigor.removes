@@ -1,0 +1,10 @@
+[
+    {
+        "name":     "platform/external/sepolicy",
+        "path":     "external/sepolicy"
+    },
+    {
+        "name":     "platform/hardware/msm7k",
+        "path":     "hardware/msm7k"
+    }
+]

@@ -61,12 +61,6 @@
     },
     {
         "remote":       "github",
-        "repository":   "CyanogenMod/android_external_ntfs-3g",
-        "target_path":  "external/ntfs-3g",
-        "revision":     "cm-10.2"
-    },
-    {
-        "remote":       "github",
         "repository":   "CyanogenMod/android_external_openssh",
         "target_path":  "external/openssh",
         "revision":     "cm-10.2"

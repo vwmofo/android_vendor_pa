@@ -53,4 +53,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=htc_vigor BUILD_ID=IML74K BUILD_FIN
 # Include ParanoidAndroid repos configuration
 include vendor/pa/config/pa_addons.mk
 
+PRODUCT_COPY_FILES += \
+	vwmofo/prebuilt/CarHome2.2.apk:system/app/CarHome2.2.apk \
+	vwmofo/prebuilt/CarhomeLauncher.apk:system/app/CarhomeLauncher.apk
 endif
